@@ -1,4 +1,4 @@
-# Opening a Restaurant|Zomato Dataest|Kaggle
+# Opening a Restaurant|Zomato Dataset|Kaggle
 Determine the ideal type of restaurant the team could open in order to maximize customer ratings 
 1. What area/locality should the restaurant be open in?
 2. Which cuisine restaurant should we open?
